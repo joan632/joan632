@@ -6,27 +6,30 @@ Soy un **Desarrollador Full-Stack** apasionado por construir aplicaciones web ef
 
 ### 🚀 Tecnologías y Herramientas
 
-- **Backend:** Node.js (NestJS), Python (Django)
-- **Frontend:** JavaScript / TypeScript, React, Tailwind CSS, HTML5, CSS3
-- **Herramientas & Ecosistema:** Monorepos (pnpm), WebSockets (Socket.io), Vite, Git / GitHub
-- **Productividad:** Ofimática y gestión estructurada basada en procesos
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🛠️ Proyectos Destacados
 
 *   **DotApp SENA – Sistema de Gestión de Uniformes**
-    *   Aplicación full-stack para la administración, control y distribución de dotaciones.
-    *   Diseño de bases de datos y control de acceso robusto basado en roles.
+    *   Aplicación full-stack para la administración, control y distribución de dotaciones oficiales.
+    *   Diseño de bases de datos e implementación de lógica de negocio y accesos según roles (administrador, bodeguero, despachador).
 *   **MiTurno – Sistema de Gestión de Turnos Bancarios**
-    *   Sistema centralizado de atención al cliente optimizando la experiencia del asesor y los flujos de llamadas.
+    *   Sistema centralizado de llamadas y atención al cliente optimizando la experiencia del asesor mediante un flujo eficiente.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=joan632&show_icons=true&theme=tokyonight&count_private=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=joan632&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joan632&theme=tokyonight" alt="Joan GitHub Streak" />
+</p>
 
 ---
 
